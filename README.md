@@ -1,6 +1,6 @@
 # Ciao, sono Andrea 👋
 
-AI engineer & full-stack developer. Building agentic systems, MCP tools, and creative web experiences.
+AI engineer & full-stack developer. Building agentic systems, MCP tools, WiFi sensing research, and creative web experiences.
 
 ---
 
@@ -11,11 +11,11 @@ AI engineer & full-stack developer. Building agentic systems, MCP tools, and cre
 | Progetto | Descrizione | Stack |
 |---|---|---|
 | [adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp) | MCP server — 177 tools, full InDesign DOM da AI agent | TypeScript · UXP |
-| [wifi-csi-sensing](https://github.com/nutriandrea/wifi-csi-sensing) | WiFi sensing — presenza, respiro, battito da CSI | Python · ESP32 · ML |
-| [IS26-AM54](https://github.com/nutriandrea/IS26-AM54) | Gioco distribuito multiplayer — Socket + RMI | Java · JavaFX |
-| [thesis-companion](https://github.com/nutriandrea/thesis-companion) | AI companion per tesi — scrittura e ricerca | React · Supabase · TS |
-| [pubmed-vuln-scraper](https://github.com/nutriandrea/pubmed-vuln-research) | Vulnerability research automation via PubMed | Python · RAG |
-| [Hexagonal Pathfinding](https://github.com/nutriandrea/Hexagonal-Grid-Pathfinding-System) | A* su griglia esagonale — Dijkstra + BFS | C · Algoritmi |
+| [IF_I_WIFI](https://github.com/nutriandrea/IF_I_WIFI) | WiFi sensing — presenza, respiro, battito, sonno da CSI | Python · ESP32 · ML |
+| [thesis-companion](https://github.com/nutriandrea/thesis-companion) | Socrate — AI conversazionale per tesi universitarie | React · Supabase · Edge |
+| [IS26-AM54](https://github.com/nutriandrea/IS26-AM54) | Gioco distribuito multiplayer — Socket + RMI + JavaFX | Java · Maven |
+| [pubmed-vuln-research](https://github.com/nutriandrea/pubmed-vuln-research) | Vulnerability research automation via PubMed RAG | Python · RAG |
+| [Hexagonal Pathfinding](https://github.com/nutriandrea/Hexagonal-Grid-Pathfinding-System) | A* su griglia esagonale — Dijkstra + BFS in C | C · Algoritmi |
 
 ### 🧠 AI & Agent Systems
 
@@ -25,13 +25,13 @@ AI engineer & full-stack developer. Building agentic systems, MCP tools, and cre
 
 ### 🔬 Research & IoT
 
-- [ArduinoWifiSensing](https://github.com/nutriandrea/ArduinoWifiSensing) — WiFi sensing su ESP32
-- [env-monitor-pico-w](https://github.com/nutriandrea/env-monitor-pico-w) — Environmental monitoring
+- [ArduinoWifiSensing](https://github.com/nutriandrea/ArduinoWifiSensing) — WiFi sensing su ESP32 (predecessore IF_I_WIFI)
+- [env-monitor-pico-w](https://github.com/nutriandrea/env-monitor-pico-w) — Monitoraggio ambientale con Pico W
 
 ### 🏛️ University
 
 - [PF-Reti-Logiche-Polimi-2026](https://github.com/nutriandrea/PF-Reti-Logiche-Polimi-2026) — VHDL, Reti Logiche PoliMI
-- [deviate-starthack](https://github.com/nutriandrea/deviate-starthack) — StartHack 2026
+- [deviate-starthack](https://github.com/nutriandrea/deviate-starthack) — StartHack 2026 (Studyond)
 
 ### 🛠️ Utilities (private)
 
