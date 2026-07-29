@@ -40,6 +40,23 @@ research management.
 Automated vulnerability research and reporting over PubMed data —<br>
 agentic RAG pipeline from CVE to report.
 
+&nbsp;
+
+<samp>university</samp>
+
+**[IS26-AM54](https://github.com/nutriandrea/IS26-AM54)** &nbsp;·&nbsp; <samp>java, maven</samp><br>
+Distributed multiplayer game built with Socket, RMI, and JavaFX.
+
+**[Hexagonal-Grid-Pathfinding-System](https://github.com/nutriandrea/Hexagonal-Grid-Pathfinding-System)** &nbsp;·&nbsp; <samp>c</samp><br>
+A\* pathfinding on hexagonal grids — search algorithms for tile-based navigation.
+
+&nbsp;
+
+<samp>hackathons</samp>
+
+**[deviate-starthack](https://github.com/nutriandrea/deviate-starthack)** &nbsp;·&nbsp; <samp>typescript</samp><br>
+Studyond — built at StartHack 2026.
+
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
