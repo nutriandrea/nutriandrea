@@ -50,6 +50,9 @@ Distributed multiplayer game built with Socket, RMI, and JavaFX.
 **[Hexagonal-Grid-Pathfinding-System](https://github.com/nutriandrea/Hexagonal-Grid-Pathfinding-System)** &nbsp;·&nbsp; <samp>c</samp><br>
 A\* pathfinding on hexagonal grids — search algorithms for tile-based navigation.
 
+**[PF-Reti-Logiche-Polimi-2026](https://github.com/nutriandrea/PF-Reti-Logiche-Polimi-2026)** &nbsp;·&nbsp; <samp>vhdl</samp><br>
+Hardware design — VHDL at Politecnico di Milano.
+
 &nbsp;
 
 <samp>hackathons</samp>
