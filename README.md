@@ -16,7 +16,7 @@
 > AI engineer & full-stack developer, based in Italy.<br>
 > Agentic systems that ship, not demos.
 
-Right now that's [adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp) — full InDesign DOM control from any AI agent. Also deep into WiFi CSI sensing: presence, breathing, heartbeat from plain radio signals.
+Right now that's [adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp) — full InDesign DOM control from any AI agent. Also building [ALP](https://github.com/nutriandrea/alp) — an open standard for structured learning pathways AI agents can follow — and [constellations-of-the-present](https://constellations-of-the-present.vercel.app) — interactive web artwork for ISEA2026.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -27,6 +27,15 @@ Right now that's [adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indes
 **[adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp)** &nbsp;·&nbsp; <samp>typescript, uxp</samp><br>
 The most comprehensive MCP server for Adobe InDesign — 183 tools,<br>
 31 handlers, full DOM control from any AI agent.
+
+**[alp](https://github.com/nutriandrea/alp)** &nbsp;·&nbsp; <samp>open-standard, ai-agents</samp><br>
+Agent Learning Protocol — the fourth pillar of agent-native content.<br>
+An open standard for structured learning pathways that AI agents can<br>
+follow. Like MCP, but for learning.
+
+**[constellations-of-the-present](https://constellations-of-the-present.vercel.app)** &nbsp;·&nbsp; <samp>interactive-web, generative-art</samp><br>
+Constellations of the Present — a shared sky built from anonymous<br>
+moment-hashes. Interactive web artwork for ISEA2026 Digital Arts.
 
 **[IF_I_WIFI](https://github.com/nutriandrea/IF_I_WIFI)** &nbsp;·&nbsp; <samp>python, esp32</samp><br>
 WiFi CSI sensing: presence, breathing, heartbeat, sleep from radio<br>
