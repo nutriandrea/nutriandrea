@@ -69,6 +69,14 @@ Hardware design — VHDL at Politecnico di Milano.
 **[deviate-starthack](https://github.com/nutriandrea/deviate-starthack)** &nbsp;·&nbsp; <samp>typescript</samp><br>
 Studyond — built at StartHack 2026.
 
+<img src="./hd-education.svg" width="620" alt="education"/>
+
+**EIT AIAC — MSc in ICT Innovation** &nbsp;·&nbsp; <samp>polimi → eurecom</samp><br>
+Artificial Intelligence for Autonomous & Connected Things.<br>
+Year one at Politecnico di Milano — multiagent systems, deep learning,<br>
+HCI, entrepreneurship. Year two at EURECOM — ML systems, security,<br>
+optimization, reinforcement learning.
+
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
 <div align="center">
