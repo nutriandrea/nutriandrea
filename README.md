@@ -37,9 +37,9 @@ follow. Like MCP, but for learning.
 Constellations of the Present — a shared sky built from anonymous<br>
 moment-hashes. Interactive web artwork for ISEA2026 Digital Arts.
 
-**[IF_I_WIFI](https://github.com/nutriandrea/IF_I_WIFI)** &nbsp;·&nbsp; <samp>python, esp32</samp><br>
-WiFi CSI sensing: presence, breathing, heartbeat, sleep from radio<br>
-signals. Honest fork of RuView with the fake ML removed.
+**[IF_I_WIFI](https://github.com/vincenzoparente04/if-i-wi-fi)** &nbsp;·&nbsp; <samp>python, esp32</samp><br>
+WiFi CSI sensing: presence, motion from radio signals.<br>
+Honest fork of RuView with the fake ML removed.
 
 **[thesis-companion](https://github.com/nutriandrea/thesis-companion)** &nbsp;·&nbsp; <samp>typescript, supabase</samp><br>
 Socrate — conversational AI companion for thesis writing and<br>
