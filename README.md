@@ -25,8 +25,12 @@ Right now that's [adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indes
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp)** &nbsp;·&nbsp; <samp>typescript, uxp</samp><br>
-The most comprehensive MCP server for Adobe InDesign — 183 tools,<br>
-31 handlers, full DOM control from any AI agent.
+The most comprehensive MCP server for Adobe InDesign — 194 tools,<br>
+33 handlers, full DOM control from any AI agent.
+
+**[alp](https://github.com/nutriandrea/alp)** &nbsp;·&nbsp; <samp>python</samp><br>
+Agent Learning Protocol — an open standard for structured learning<br>
+pathways that AI agents can follow. Like MCP, for learning.
 
 **[alp](https://github.com/nutriandrea/alp)** &nbsp;·&nbsp; <samp>open-standard, ai-agents</samp><br>
 Agent Learning Protocol — the fourth pillar of agent-native content.<br>
@@ -48,6 +52,18 @@ research management.
 **[pubmed-vuln-research](https://github.com/nutriandrea/pubmed-vuln-research)** &nbsp;·&nbsp; <samp>python, rag</samp><br>
 Automated vulnerability research and reporting over PubMed data —<br>
 agentic RAG pipeline from CVE to report.
+
+&nbsp;
+
+<samp>art &amp; research</samp>
+
+**[unsupervised-mit](https://github.com/nutriandrea/unsupervised-mit)** &nbsp;·&nbsp; <samp>python, godot</samp><br>
+Ambient generative artwork for the MIT Museum BRAIN open call —<br>
+a brain that watches the room.
+
+**[constellations-of-the-present](https://github.com/nutriandrea/constellations-of-the-present)** &nbsp;·&nbsp; <samp>javascript</samp><br>
+Interactive web artwork — a shared sky built from anonymous<br>
+moment-hashes. ISEA2026 Digital Arts Student Competition.
 
 &nbsp;
 
