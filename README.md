@@ -13,69 +13,62 @@
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> AI engineer & full-stack developer, based in Italy.<br>
-> Agentic systems that ship, not demos.
+> AI engineer and software developer based in Italy.<br>
+> I build agentic systems and developer tools.
 
-Right now that's [adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp) — full InDesign DOM control from any AI agent. Also building [ALP](https://github.com/nutriandrea/alp) — an open standard for structured learning pathways AI agents can follow — and [constellations-of-the-present](https://constellations-of-the-present.vercel.app) — interactive web artwork for ISEA2026.
+Right now I'm focused on [adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp), an MCP server for programmatic control of Adobe InDesign, and exploring [ALP](https://github.com/nutriandrea/alp), an experimental format for structured learning pathways for AI agents.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>typescript &nbsp; python &nbsp; react &nbsp; javascript &nbsp; java &nbsp; c &nbsp; fastapi &nbsp; supabase &nbsp; vite &nbsp; vhdl &nbsp; arduino &nbsp; html &nbsp; css &nbsp; git &nbsp; linux</samp>
+<samp>typescript &nbsp; python &nbsp; react &nbsp; java &nbsp; c &nbsp; fastapi &nbsp; supabase &nbsp; vite &nbsp; vhdl</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 **[adobe-indesign-mcp](https://github.com/nutriandrea/adobe-indesign-mcp)** &nbsp;·&nbsp; <samp>typescript, uxp</samp><br>
-The most comprehensive MCP server for Adobe InDesign — 194 tools,<br>
-33 handlers, full DOM control from any AI agent.
+MCP server for Adobe InDesign with broad DOM coverage for<br>
+document creation, editing, and export workflows.
 
-**[alp](https://github.com/nutriandrea/alp)** &nbsp;·&nbsp; <samp>open-standard, ai-agents</samp><br>
-Agent Learning Protocol — the fourth pillar of agent-native content.<br>
-An open standard for structured learning pathways that AI agents can<br>
-follow. Like MCP, but for learning.
+**[alp](https://github.com/nutriandrea/alp)** &nbsp;·&nbsp; <samp>python, spec draft</samp><br>
+Experimental protocol draft for representing structured learning<br>
+pathways that AI agents can navigate and execute.
 
-**[constellations-of-the-present](https://constellations-of-the-present.vercel.app)** &nbsp;·&nbsp; <samp>interactive-web, generative-art</samp><br>
-Constellations of the Present — a shared sky built from anonymous<br>
-moment-hashes. Interactive web artwork for ISEA2026 Digital Arts.
-
-**[IF_I_WIFI](https://github.com/vincenzoparente04/if-i-wi-fi)** &nbsp;·&nbsp; <samp>python, esp32</samp><br>
-WiFi CSI sensing: presence, motion from radio signals.<br>
-Honest fork of RuView with the fake ML removed.
+**[IF_I_WIFI](https://github.com/nutriandrea/IF_I_WIFI)** &nbsp;·&nbsp; <samp>python, esp32</samp><br>
+WiFi CSI sensing experiments for presence and motion detection<br>
+using ESP32 devices and host-side signal processing.
 
 **[thesis-companion](https://github.com/nutriandrea/thesis-companion)** &nbsp;·&nbsp; <samp>typescript, supabase</samp><br>
-Socrate — conversational AI companion for thesis writing and<br>
-research management.
+Conversational assistant for thesis writing and research<br>
+organization.
 
 **[pubmed-vuln-research](https://github.com/nutriandrea/pubmed-vuln-research)** &nbsp;·&nbsp; <samp>python, rag</samp><br>
-Automated vulnerability research and reporting over PubMed data —<br>
-agentic RAG pipeline from CVE to report.
+RAG pipeline for mining PubMed abstracts to surface research<br>
+limitations and documented weaknesses for structured analysis.
 
 &nbsp;
 
 <samp>university</samp>
 
-**[IS26-AM54](https://github.com/nutriandrea/IS26-AM54)** &nbsp;·&nbsp; <samp>java, maven</samp><br>
+**[MESOS-IS26-AM54](https://github.com/nutriandrea/MESOS-IS26-AM54)** &nbsp;·&nbsp; <samp>java, maven</samp><br>
 Distributed multiplayer game built with Socket, RMI, and JavaFX.
 
 **[Hexagonal-Grid-Pathfinding-System](https://github.com/nutriandrea/Hexagonal-Grid-Pathfinding-System)** &nbsp;·&nbsp; <samp>c</samp><br>
-A\* pathfinding on hexagonal grids — search algorithms for tile-based navigation.
+A\* pathfinding on hexagonal grids for tile-based navigation.
 
 **[PF-Reti-Logiche-Polimi-2026](https://github.com/nutriandrea/PF-Reti-Logiche-Polimi-2026)** &nbsp;·&nbsp; <samp>vhdl</samp><br>
-Hardware design — VHDL at Politecnico di Milano.
+Digital logic design project in VHDL at Politecnico di Milano.
 
 &nbsp;
 
 <samp>hackathons</samp>
 
-**[deviate-starthack](https://github.com/nutriandrea/deviate-starthack)** &nbsp;·&nbsp; <samp>typescript</samp><br>
-Studyond — built at StartHack 2026.
+**[deviate-starthack](https://github.com/nutriandrea/deviate-starthack)** &nbsp;·&nbsp; <samp>typescript, python</samp><br>
+Thesis-matching prototype built at StartHack 2026.
 
 <img src="./hd-education.svg" width="620" alt="education"/>
 
-**EIT AIAC — MSc in ICT Innovation** &nbsp;·&nbsp; <samp>polimi → eurecom</samp><br>
-Artificial Intelligence for Autonomous & Connected Things.<br>
-Year one at Politecnico di Milano — multiagent systems, deep learning,<br>
-HCI, entrepreneurship. Year two at EURECOM — ML systems, security,<br>
-optimization, reinforcement learning.
+**EIT Digital Master School — AIAC** &nbsp;·&nbsp; <samp>polimi, eurecom</samp><br>
+MSc in Autonomous Systems and Intelligent Robots / ICT Innovation.<br>
+Politecnico di Milano and EURECOM.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
