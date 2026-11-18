@@ -32,7 +32,7 @@ document creation, editing, and export workflows.
 Experimental protocol draft for representing structured learning<br>
 pathways that AI agents can navigate and execute.
 
-**[IF_I_WIFI](https://github.com/nutriandrea/IF_I_WIFI)** &nbsp;·&nbsp; <samp>python, esp32</samp><br>
+**[IF_I_WIFI](https://github.com/vincenzoparente04/if-i-wi-fi)** &nbsp;·&nbsp; <samp>python, esp32</samp><br>
 WiFi CSI sensing experiments for presence and motion detection<br>
 using ESP32 devices and host-side signal processing.
 
